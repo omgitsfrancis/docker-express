@@ -1,6 +1,7 @@
 ## How to run locally
 In the project directory,
 ### `npm install`
+### `npm run build`
 ### `npm run express`
 
 ## How to run with Docker
