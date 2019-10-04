@@ -8,3 +8,6 @@ In the project directory,
 ### `npm run docker:build`
 ### `npm run docker:run`
 
+## Available API
+### `{host}\api\team`
+
